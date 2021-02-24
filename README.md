@@ -8,3 +8,4 @@ I'm a high school student interested in math :triangular_ruler:, competitive pro
 - :rocket: Working on improving my problem solving skills in math contests and competitive programming
 - :computer: Future computer science student
 - :video_game: Recently started playing Beat Saber
+- :email: Reach me at cindyzhu0830@gmail.com
