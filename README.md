@@ -1,4 +1,4 @@
-### Hi, I'm [Cindy](czhu1217.github.io)!  <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/wave.gif" width="24px">
+### Hi, I'm [Cindy](czhu1217.github.io)!  <img src="https://raw.githubusercontent.com/czhu1217/czhu1217/master/wave.gif" width="24px">
 
 I'm a high school student interested in math :triangular_ruler:, competitive programming :computer:, and web development :spider_web:
 
