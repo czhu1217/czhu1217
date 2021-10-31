@@ -6,6 +6,6 @@ I'm a high school student interested in math :triangular_ruler:, competitive pro
 
 - 🌱 Currently learning about Web Development, Javascript, and Android App Development
 - :rocket: Working on improving my problem solving skills in math contests and competitive programming
-- :computer: Future computer science student
+- :computer: Computer Science major
 - :video_game: Recently started playing Beat Saber
 - :email: Reach me at cindyzhu0830@gmail.com
