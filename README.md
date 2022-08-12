@@ -5,5 +5,5 @@ I'm a second year ai/cs student interested in machine learning, math, and theore
 - 🌱 Currently trying to learn ML
 - :rocket: Working on improving my problem solving and project building skills
 - :computer: Artificial Intelligence Major
-- ⛸️: I like badminton and skating 
+- ⛸️ I like badminton and skating 
 - :email: Reach me at cindyzhu0830@gmail.com
